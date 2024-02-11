@@ -1,0 +1,1 @@
+Still haven't gotten typing.com game sound gone. No matter what I do. I've tried grabbing their sound elements and muting them but my script says there are no elements of that kind. I do know they are using p5.js but that doesn't really help.
